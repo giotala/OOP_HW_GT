@@ -9,6 +9,7 @@ I want to generate a webpage that displays my team's basic info
 so that I have quick access to emails and GitHub profiles
 ```
 
+
 ## Workflow:
 
 1. Run tests
@@ -80,8 +81,8 @@ The project must generate a `team.html` page in the `output` directory, that dis
 
   * Role-specific property (School, link to GitHub profile, or office number)
 
-## Bonus
+## extra
 
-* Use validation to ensure that the information provided is in the proper expected format.
+* Added the app to my Portfolio
 
-* Add the application to your portfolio.
+![Photo OOP](img\OOP.PNG)
